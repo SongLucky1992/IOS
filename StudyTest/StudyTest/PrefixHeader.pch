@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  StudyTest
+//
+//  Created by haoyunsong on 2017/8/23.
+//  Copyright © 2017年 XingHeQiFu. All rights reserved.
+//
+
+#import "define.h"
+#import "config.h"
+
+#import "BaseViewController.h"
+#import "AFAppDotNetAPIClient.h"
+#import "YYModel.h"
+
+#import <AFNetworking.h>
+
